@@ -14,7 +14,6 @@
 ```bash
 git clone <본인repository>
 ```
-
 ### install dependency
 ```bash
 pip install "fastapi[all]"
