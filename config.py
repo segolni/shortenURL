@@ -1,1 +1,3 @@
-host = "localhost:8000"
+import os
+
+host = os.environ['HOST']
